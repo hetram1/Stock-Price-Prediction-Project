@@ -50,8 +50,6 @@ This project predicts stock prices using a **Long Short-Term Memory (LSTM)** mod
    python stock_app.py
    ```
 
-5. **Access the Web App**
-   Open [http://localhost:8050](http://localhost:8050) in your browser.
 
 ## 📊 Dataset Information
 - The dataset used is `NSE-TATA.csv`, containing historical stock prices.
